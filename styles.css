@@ -1,0 +1,139 @@
+h1{
+	color: rgb(2,132,130);
+	font-family: arial, sans-serif;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+h2{
+	color:#ffd700;
+	font-family: arial, sans-serif;
+}
+h3{
+	font-family: arial, sans-serif;
+	font-size: 24px;
+}
+
+p{
+	font-family: arial, sans-serif;
+}
+a{
+	
+	text-decoration: none;
+	color:white;
+}
+
+.myname{
+	font-style: italic;
+	text-decoration: none;
+	color:rgb(2,132,130);
+}
+
+a:hover {
+    color:#ee5f3c;
+}
+
+body{
+	text-align: center;
+}
+
+.board{
+	height: 50%;
+	width: 50%;
+	display: inline-block;
+	float:left;
+	margin:3%;
+
+
+}
+
+li{
+	list-style-type: none;
+	background-color: #ffbf00;
+	padding: 35px;
+	display: block;
+	float:left;
+
+}
+
+nav{
+	background-color: #808080;
+}
+
+.card{
+	height: 200px;
+	width: 150px;
+	border: 1px;
+	border-style: solid;
+	background-color: yellow;
+	border-radius: 10px;
+	float:right;
+
+}
+
+.cardOne{
+	height: 200px;
+	width: 150px;
+	border: 1px;
+	border-style: solid;
+	background-color: yellow;
+	border-radius: 10px;
+	float:right;
+	margin:8%;
+
+
+}
+
+.cardTwo{
+	height: 200px;
+	width: 150px;
+	border: 1px;
+	border-style: solid;
+	background-color: yellow;
+	border-radius: 10px;
+	float:right;
+	margin:8%;
+
+}
+
+.cardThree{
+	height: 200px;
+	width: 150px;
+	border: 1px;
+	border-style: solid;
+	background-color: yellow;
+	border-radius: 10px;
+	float:right;
+	margin:8%;
+
+}
+
+.cardFour{
+	height: 200px;
+	width: 150px;
+	border: 1px;
+	border-style: solid;
+	background-color: yellow;
+	border-radius: 10px;
+	float:right;
+	margin:8%;
+
+}
+.name{
+	color:rgb(2,132,130);
+}
+
+.clearfix:after {
+        visibility: hidden;
+        display: block;
+        content: " ";
+        clear: both;
+        height: 0;
+        font-size: 0;
+      }
+
+      .footer{
+      	background-color: #808080;
+      	clear:both;
+
+
+      }
